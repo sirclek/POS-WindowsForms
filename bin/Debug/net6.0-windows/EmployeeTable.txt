@@ -1,0 +1,3 @@
+ID;Name;Email;Username;Password;Role
+E0001;Bryan Cashierman;bryanrichard@gmail.com;cashier;cashier;cashier
+E0001;Steve Adminman;steve@gmail.com;admin;admin;admin

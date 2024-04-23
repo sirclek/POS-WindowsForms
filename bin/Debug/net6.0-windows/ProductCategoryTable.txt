@@ -1,0 +1,5 @@
+ID;Name;Description
+55754d75-6fb3-4839-b8b7-5125d40b5d22;Hoodie;Comfy outerwear
+55754d75-6fb3-4839-b8b7-5125d40b5d23;Shirt;Stylish basics
+a64278ba-6c20-486b-bf1c-e54f4e0e1b2b;Accessories;Hats and etc
+a64278ba-6c20-486b-bf1c-e54f4e0e1b2c;Pants;Fancy bottoms

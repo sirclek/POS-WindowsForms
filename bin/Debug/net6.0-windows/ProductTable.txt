@@ -1,0 +1,9 @@
+ID;Name;Stock;Price;Category
+a64278ba-6c20-486b-bf1c-e54f4e0e1b3d;Heavyweight Hoodie;110;50;55754d75-6fb3-4839-b8b7-5125d40b5d22
+a64278ba-6c20-486b-bf1c-e54f4f0e1b3d;Lightweight Hoodie;80;50;55754d75-6fb3-4839-b8b7-5125d40b5d22
+a64278ba-6c20-486b-bf1c-e54f4e0e1b4c;Oversized Tee;37;50;55754d75-6fb3-4839-b8b7-5125d40b5d23
+a64278ba-6c20-486b-bf1c-e54f4f0e1b3z;Baseball Hat;34;30;a64278ba-6c20-486b-bf1c-e54f4e0e1b2b
+a64278ba-6c20-486b-bf1c-e54f4f0e1e3e;Cargo Pants;66;50;a64278ba-6c20-486b-bf1c-e54f4e0e1b2c
+ea16648e-e9dd-41b7-ac12-6ebd243eff27;Sport Pants;100;40;a64278ba-6c20-486b-bf1c-e54f4e0e1b2c
+e30f7c12-9c0b-41c4-9a36-401c14513d08;Basic Tee;100;25;55754d75-6fb3-4839-b8b7-5125d40b5d23
+0e75fb1e-3a1b-4309-9f66-f8d815d250bb;Sunglasses;78;35;a64278ba-6c20-486b-bf1c-e54f4e0e1b2b

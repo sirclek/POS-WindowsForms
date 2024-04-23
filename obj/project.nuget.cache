@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "te5OeqjhYSpPEMLw5YWZ7wqQEkcUH9JndGeDPrB/o/yu8BDd5Uyb6E2Mi0tvlWujouGqnuy8Ajivuj8lOCKSIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\giff8\\Downloads\\tmp\\POS-SYSTEM-FINAL\\POS\\POS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giff8\\.nuget\\packages\\winforms.datavisualization\\1.9.0\\winforms.datavisualization.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
